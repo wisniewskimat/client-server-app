@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec9f397b-a229-4c8c-adeb-bf7e03c9505a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oqEAWIJgGbKAwEAr5eHAuil10x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.Server (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serverclient.app.Client" />
+      <module name="SocketApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serverclient.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="SocketApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serverclient.app.Server" />
+      <module name="SocketApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serverclient.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="SocketApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer.givenGreetingClient_whenServerRespondsWhenStarted_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SocketApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestServer" />
+      <option name="METHOD_NAME" value="givenGreetingClient_whenServerRespondsWhenStarted_thenCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SocketApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SocketApp" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="JUnit.TestServer.givenGreetingClient_whenServerRespondsWhenStarted_thenCorrect" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9f397b-a229-4c8c-adeb-bf7e03c9505a" name="Default Changelist" comment="" />
+      <created>1614005576528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614005576528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="215" key="#Inspections" timestamp="1614006732386">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="215" key="#Inspections/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614006732386" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1614767216698">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614767216698" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1614767216697">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614767216697" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1614767216696">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614767216696" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1614767216697">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614767216697" />
+    <state width="1878" height="354" key="GridCell.Tab.1.bottom" timestamp="1614038644189">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.bottom/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614038644189" />
+    <state width="1878" height="354" key="GridCell.Tab.1.center" timestamp="1614038644188">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.center/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614038644188" />
+    <state width="1878" height="354" key="GridCell.Tab.1.left" timestamp="1614038644187">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.left/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614038644187" />
+    <state width="1878" height="354" key="GridCell.Tab.1.right" timestamp="1614038644188">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="354" key="GridCell.Tab.1.right/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614038644188" />
+    <state x="1938" y="211" key="Maven.ArtifactSearchDialog" timestamp="1614029423574">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1938" y="211" key="Maven.ArtifactSearchDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614029423574" />
+    <state x="1909" y="188" key="SettingsEditor" timestamp="1614006822352">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1909" y="188" key="SettingsEditor/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614006822352" />
+    <state x="2659" y="334" key="chooseDestDirectoryDialog" timestamp="1614263678883">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2659" y="334" key="chooseDestDirectoryDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614263678883" />
+    <state x="2079" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1614763797624">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2079" y="381" key="com.intellij.ide.util.TipDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614763797624" />
+    <state x="2066" y="188" width="667" height="729" key="find.popup" timestamp="1614769270136">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2066" y="188" width="667" height="729" key="find.popup/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614769270136" />
+    <state x="2107" y="172" key="refactoring.ChangeSignatureDialog" timestamp="1614766292902">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2107" y="172" key="refactoring.ChangeSignatureDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614766292902" />
+    <state x="2545" y="259" key="search.everywhere.popup" timestamp="1614005583516">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="259" key="search.everywhere.popup/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1614005583516" />
+  </component>
+</project>
